@@ -84,7 +84,7 @@ Using these characters in song metadata or in bookmarks can cause problems.
 - Bomb hitboxes are smaller than block hitboxes, smaller even than the bomb model itself.
 - Bombs are hard to see when there are no lighting events active. Make sure your map isn't dark when bombs are coming up.
   See [Basic Lighting](./basic-lighting.md) for more tips.
-- Before Beat Saver version 1.37.0 bombs could still be hit after they have passed the player.
+- Before Beat Saber version 1.37.0 bombs could still be hit after they have passed the player.
 
 **A few notes about arcs:**
 
